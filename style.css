@@ -5,3 +5,18 @@ body{
 .anam{
     color:orangered;
 }
+.hed{
+    font-size: 40px;
+}
+.fstsechalf{
+    width: 40%;
+    float: left;
+    margin-left: 90px;
+    padding-left: 5px;
+}
+.fstsechalf img{
+    width: 85%;
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
