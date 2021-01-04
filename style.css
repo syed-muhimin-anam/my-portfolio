@@ -89,6 +89,8 @@ section{
     border-image:linear-gradient(180deg, blue,cyan);
     border-image-slice: 1;
 }
-
-
+footer{
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
 }
